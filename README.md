@@ -3,7 +3,6 @@
 ## Hi everyone! :hand:
 
 Here we won't see:
-* __*ADAPTIVE*__
 * __*Сhange language on button click*__
 * __*Spectacular appearance of elements when scrolling the page*__
 * __*carousel js*__
